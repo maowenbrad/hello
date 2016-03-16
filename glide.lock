@@ -1,0 +1,8 @@
+hash: 8a8a4026ee180f77c5b309aa17bf3f3b3e5d2090db1ae4454a64b11557b9ad43
+updated: 2016-03-16T15:34:55.2165232-05:00
+imports:
+- name: github.com/cbroglie/mustache
+  version: 19fb7bf55bfd87f8e62e756a4990632f68f7cf4f
+- name: github.com/Masterminds/semver
+  version: 808ed7761c233af2de3f9729a041d68c62527f3a
+devImports: []

@@ -1,0 +1,5 @@
+package: github.com/maowenbrad/hello
+import:
+- package: github.com/Masterminds/semver
+  version: ^1.0.0
+- package: github.com/cbroglie/mustache
